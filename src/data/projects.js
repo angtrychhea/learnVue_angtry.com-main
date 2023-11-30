@@ -17,7 +17,7 @@ const projects = [
 	{
 		id: 2,
 		title: 'Logo design',
-		category: 'Graphic design',
+		category: 'Graphic Design',
 		img: require('@/assets/images/v-live.png'),
 	},
 	{
@@ -32,7 +32,12 @@ const projects = [
 		category: 'Video Editing',
 		img: require('@/assets/images/video.png'),
 	},
-	
+	{
+		id: 6,
+		title: 'E-commerce Site ',
+		category: 'Application',
+		img: require('@/assets/images/default.png'),
+	},
 	
 	
 ];
