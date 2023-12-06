@@ -35,11 +35,11 @@ export default {
     <!-- Banner right illustration -->
     <div class="w-full md:w-1/2 text-right">
       <h1 class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase">
-        Hi, I am Angtry
+        Chhea Angtry
       </h1>
       <p class="font-general-medium mt-2 text-lg sm:text-xl xl:text-2xl text-center sm:text-left leading-none text-gray-400">
-        Bachelor of Digital Business at Cambodia Academy of Digital Technology
-        <a href="https://www.cadt.edu.kh/">(CADT)</a>
+        Bachelor of Digital Business specialized E-commerce at Cambodia Academy of Digital Technology
+        <a style="text-decoration: underline;" href="https://www.cadt.edu.kh/">(CADT)</a>
       </p>
       <div class="flex justify-center sm:block">
         <a

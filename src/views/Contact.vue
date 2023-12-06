@@ -25,7 +25,7 @@ export default {
 				},
 				{
 					id: 3,
-					name: '078 826 050 ',
+					name: '093 36 90 97 ',
 					icon: 'phone',
 					url:'',
 				},
