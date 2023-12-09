@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "web-e4ab1"
-  }
+    "default": "web-e4ab1",
+    "dist": "web-e4ab1"
+  },
+  "targets": {},
+  "etags": {}
 }
