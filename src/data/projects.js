@@ -3,6 +3,12 @@
 
 const projects = [
 	{
+		id: 7,
+		title: 'Build coffee shop Website (Wix.com)',
+		category: 'Application',
+		img: require('@/assets/images/rainbow_cafe.png'),
+	},
+	{
 		id: 5,
 		title: 'Volunteer as Trainer of KHoding Hero',
 		category: 'Volunteer',
@@ -13,6 +19,24 @@ const projects = [
 		title: 'Volunteer as Trainer of Digital literacy',
 		category: 'Volunteer',
 		img: require('@/assets/images/digital_literacy.jpg'),
+	},
+	{
+		id: 4,
+		title: 'Digital literacy workshop',
+		category: 'Video Editing',
+		img: require('@/assets/images/video.png'),
+	},
+	{
+		id: 8,
+		title: 'Video promote CADT Team project',
+		category: 'Application',
+		img: require('@/assets/images/vdo.jpg'),
+	},
+	{
+		id: 6,
+		title: 'E-commerce Site(Laravel) ',
+		category: 'Application',
+		img: require('@/assets/images/default.png'),
 	},
 	{
 		id: 2,
@@ -27,17 +51,12 @@ const projects = [
 		img: require('@/assets/images/java_crud.png'),
 	},
 	{
-		id: 4,
-		title: 'Digital literacy workshop',
-		category: 'Video Editing',
-		img: require('@/assets/images/video.png'),
-	},
-	{
-		id: 6,
-		title: 'E-commerce Site ',
+		id: 9,
+		title: 'Rainbow Drinks',
 		category: 'Application',
-		img: require('@/assets/images/default.png'),
+		img: require('@/assets/images/rainbow.png'),
 	},
+	
 	
 	
 ];

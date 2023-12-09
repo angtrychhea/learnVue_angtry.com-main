@@ -145,12 +145,15 @@ export default {
 			>
 				<!-- Hire me button -->
 				<div class="hidden md:block">
-					<Button
-						title="Send me email"
+					<a href="https://t.me/angtry_chhea">
+						<Button
+						title="Send me Telegram"
 						class="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
-						@click="showModal()"
+						
 						aria-label="Hire Me Button"
 					/>
+					</a>
+					
 				</div>
 
 				<!-- Theme switcher large screen -->

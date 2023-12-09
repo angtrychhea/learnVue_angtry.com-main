@@ -11,7 +11,7 @@ export default {
 				{
 					id: 2,
 					bio:
-						'I am a web development learner who is excited about building websites and online experiences. I love taking on challenges and making my own projects.',
+						'My name is Angtry. I am a 3rd year of Digital Business specialized E-commerce Univertisty student at CADT. I am a web development learner who is excited about building websites and online experiences. I love taking on challenges and making my own projects. Throughout my academic journey, I have developed a strong foundation in Database management, web development and technologies. I am fluently using computer M.S office and I have experience building simple web application ( E-commerce site). ',
 				},
 			],
 		};
@@ -39,6 +39,13 @@ export default {
 			>
 				{{ bio.bio }}
 			</p>
+			<h2> Skills:</h2>
+			
 		</div>
+
+		
+
 	</div>
+
+	
 </template>

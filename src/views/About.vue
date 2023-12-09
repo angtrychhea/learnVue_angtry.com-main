@@ -38,6 +38,12 @@ export default {
 		<div class="container mx-auto">
 			<AboutClients />
 		</div>
+
+		<!--Education-->
+		<div class="font-general-semibold text-3xl sm:text-4xl font-semibold text-primary-dark dark:text-primary-light mb-5"> 
+			<h1>Education</h1>
+			
+		</div>
 	</div>
 </template>
 
