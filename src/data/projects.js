@@ -29,7 +29,7 @@ const projects = [
 	{
 		id: 8,
 		title: 'Video promote CADT Team project',
-		category: 'Application',
+		category: 'Video Editing',
 		img: require('@/assets/images/vdo.jpg'),
 	},
 	{
